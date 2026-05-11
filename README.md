@@ -131,12 +131,6 @@ The calculator includes:
 
 ---
 
-# 📸 Screenshots
-
-Add your project screenshots here.
-
----
-
 # 🔥 Future Improvements
 
 * Currency Converter
@@ -150,13 +144,7 @@ Add your project screenshots here.
 
 # 🌐 Live Demo
 
-Add your deployed project link here.
-
-Example:
-
-```txt
-https://nova-calculator.vercel.app
-```
+### [Click Here](https://parthiban-kb.github.io/NovaCalculator/)
 
 ---
 
